@@ -2,4 +2,4 @@
 
 ...in Kotlin
 
-[![Kotlin icon](https://skillicons.dev/icons?i=kotlin&theme=dark)](https://skillicons.dev)
+[![Kotlin icon](https://skillicons.dev/icons?i=kotlin&theme=light)](https://skillicons.dev)
